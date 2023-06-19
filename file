@@ -1,0 +1,5 @@
+for i in {"ankita"}
+do
+echo -n "$i"
+done 
+echo
